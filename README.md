@@ -5,4 +5,4 @@ Just for fun I am going through different historial algorithms for encoding and 
 1) Caesar Cypher
 2) Vigenere(Not done)
 
-To run Caesar Cypher program just use input, to run Vigenere change text in file.
+To run Caesar Cypher program just use input, to run Vigenere change text in Vigenere.txt which can be found in the src folder.
